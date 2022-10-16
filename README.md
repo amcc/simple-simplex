@@ -1,7 +1,7 @@
 # simple-simplex
 A simplex noise implementation to use without modules in simple projects like p5js
 
-Script by jwagner - https://github.com/jwagner/simplex-noise.js
+Script by jwagner with a very small modification - https://github.com/jwagner/simplex-noise.js
 
 # usage
 include simplex.js in your project as a standard HTML script. Then initialise and use as below.
